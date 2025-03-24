@@ -1,4 +1,5 @@
 # SafeSurf 
+### For GDG On Campus Solution Challenge 2025
 ![SafeSurf Logo](img/extension_logo.png)
 
 It is a browser extension which aims to enhance online security and protect users from various online threats. 
